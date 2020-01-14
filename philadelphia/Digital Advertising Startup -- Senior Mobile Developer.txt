@@ -1,0 +1,5 @@
+Build and support a next generation network technology and CMS to stream video content to millions of devices in low bandwidth areas.  Competitive salary + equity.
+------
+keywords: ["IoT", "mobile development", "video streaming", "frontend frameworks", "hardware"]
+url: https://jobs.rezscore.com/token/yqD9a3d1-joZ43_-Wsd1
+bounty: 100
