@@ -1,0 +1,5 @@
+Future projects include: adopting a learning management system (LMS); a mapping service that dynamically generates optimized canvassing routes; integrations with Stripe, Salesforce and other vendors; fresh UX for map interactions; and more
+------
+keywords: ["Javascript", "Node", "React", "Angular", "AWS"]
+url: https://jobs.rezscore.com/token/4zHh2sO3aBsXms6MuJLA
+bounty: 2000
