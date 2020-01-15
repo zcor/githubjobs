@@ -1,6 +1,6 @@
-#Account Executive, Majors
-##Atlanta
-###PagerDuty
+# Account Executive, Majors
+## Atlanta
+### PagerDuty
 
 PagerDuty is looking for a sales person who is a tech savvy and loves to have fun! We’re looking for someone who has a consultative sales approach, a successful track record growing sales and able to run a live demo to a tech audience. 
 ------
