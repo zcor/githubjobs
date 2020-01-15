@@ -1,0 +1,5 @@
+>Our digital world is always on. We’re hiring a Vice President of Product Marketing to play a pivotal role in how we help organizations of all sizes transform their digital operations.
+------
+- keywords: ["marketing", "product", "market", "customer", "digital", "real", "software", "operations", "benefits", "management", "data", "medical", "service", "office", "tax", "phone", "dental", "volunteer", "community", "recruitment"]
+url: https://jobs.rezscore.com/token/eiYqplNmIcy0H9Sj5oCd
+- bounty: 2500

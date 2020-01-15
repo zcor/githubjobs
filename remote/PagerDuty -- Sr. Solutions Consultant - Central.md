@@ -1,0 +1,5 @@
+>You play the part of consultant, technical salesperson, technical guru, product specialist, and teacher, with a committed dedication to exceptional customer service. 
+------
+- keywords: ["technical", "customer", "product", "management", "business", "operations", "real", "engineer", "project", "sales", "technology", "service", "creative", "teacher", "digital", "account", "impact", "security"]
+url: https://jobs.rezscore.com/token/M0TM8UxnRtT9xTAT2X_k
+- bounty: 2000
