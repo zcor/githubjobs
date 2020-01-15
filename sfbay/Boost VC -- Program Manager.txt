@@ -2,4 +2,4 @@ Boost VC is currently seeking a Program Manager who is an operational powerhouse
 ------
 keywords: ["program manager", "events", "logistics", "content marketing", "VC"]
 url: https://jobs.rezscore.com/token/_x3JrNxMyHT_GKXUnTYT
-bounty: 350
+bounty: 500
