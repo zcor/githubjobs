@@ -9,7 +9,7 @@ We are only accepting pull requests that provide a bounty, so we may reward the 
 
 The filename should be placed in the correct regional folder with the filename containing the company name and job title separated by two hyphens "--" and saved in markdown format
 
-`{{Company Name}} -- {{Job Title}}.txt`
+`{{Company Name}} -- {{Job Title}}.md`
 
 The file contents can contain an optional comment closed with information on contact and bounty.   Any fields after these two fields will be considered optional.
 
