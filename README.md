@@ -22,4 +22,4 @@ The file contents can contain an optional comment closed with information on con
 - keywords: ["kw1", "kw2", "kw3"]
 ```
 
-If you have questions, please email hey@rezscore.com
+If you have questions, please email ghjobs@onymail.com
