@@ -2,6 +2,5 @@
 ------
 - keywords: ["python", "react", "redux", "cybersecurity", "medical", "device", "engineer", "full-stack", "software", "development"]
   url: https://jobs.rezscore.com/token/xCKjEAdJDAhFb097XvRJ
-- contact: hiring@cylera.com
 - bounty: 5000
 
