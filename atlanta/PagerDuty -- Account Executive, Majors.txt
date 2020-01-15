@@ -2,4 +2,4 @@ PagerDuty is looking for a sales person who is a tech savvy and loves to have fu
 ------
 keywords: ["sales", "customer", "benefits", "real", "data", "business", "product", "technology", "medical", "tax", "phone", "dental", "quota", "volunteer", "recruitment"]
 url: https://jobs.rezscore.com/token/CVqB7oDlgiaSX0wrwBp2
-bounty: 1500
+bounty: 1500 
