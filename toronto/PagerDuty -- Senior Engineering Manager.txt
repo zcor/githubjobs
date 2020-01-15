@@ -1,5 +1,0 @@
-We are actively seeking a Senior Engineering Manager to lead a team of passionate engineers, where you will have the opportunity to shape and scale the culture.
-------
-keywords: ["engineering", "product", "software", "manager", "engineer", "management", "customer", "technical", "production", "support", "real", "data", "medical", "office", "systems", "quality", "phone", "dental", "transportation", "delivery", "volunteer", "community", "recruitment", "public", "benefits"]
-url: https://jobs.rezscore.com/token/MHLLvrz0P2XSogXu_HGV
-bounty: 1000

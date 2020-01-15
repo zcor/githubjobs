@@ -1,6 +1,0 @@
-We’re seeking an experienced DevOps Director responsible for daily and strategic planning, operation, administration, monitoring and maintenance of IT systems, networks, and enterprise applications.
-------
-keywords: ["DevOps", "security", "IT", "AWS", "Azure", "GCP"]
-url: https://jobs.rezscore.com/token/2S705pcvHKfJM1849Zwd
-salary:148960
-bounty: 3000
