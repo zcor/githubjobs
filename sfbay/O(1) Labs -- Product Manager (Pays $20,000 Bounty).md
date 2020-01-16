@@ -3,4 +3,3 @@
 - keywords: ["product manager", "cryptocurrency", "protocol", "blockchain", "ocaml"]
 - url: https://jobs.rezscore.com/token/Fb6QnF39Gb89JtXjsdnO
 - bounty: 20000
-
