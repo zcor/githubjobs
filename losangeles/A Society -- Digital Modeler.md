@@ -1,0 +1,5 @@
+><p><strong>Summary:</strong></p><ul><li>Transforms a 2D sketch or a 3D scanned data into a 3D Digital Surface Model (DSM)</li><li>Enhance the DSM maturity and feasibility to match the project phases</li><li>Assist in the development and construction of 3D models with respect to dimensional and technical</li></ul><p>      constraints and model build in general.</p><ul><li>To provide technical surfacing feedback and data support to Designers.</li><li>Develop technical surfacing working methods and quality process according internal standards.</li><li>Support the design team with Digital Modeling</li><li>Develop digital models for presentations and decisions</li></ul><p><br></p><p><strong>Core Responsibilities:</strong></p><ul><li>Securing the technical solution for innovation.</li><li>Receive and examine technical packaging information from Studio Engineers</li><li>Achieve manufacturability of numerical models in cooperation with Studio Engineers.</li><li>Create, handle and store di...
+------
+url: https://jobs.rezscore.com/token/I1ZDRdpRumAjy9yQY9rT
+- salary:142500
+- bounty: 500
