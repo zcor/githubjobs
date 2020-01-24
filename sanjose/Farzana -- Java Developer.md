@@ -1,0 +1,5 @@
+>We are looking for Java Developer, who is strong with Core Java or knowledge in Advance Java. The ideal candidate will be able to leverage this expertise to partner with other engineers on improving projects or building new ones. If you are a smart, creative, ambitious who’s always looking for a better way, we’d like to talk to you. Please go through the below job details<br>And for further details please apply here or reach me at mfarzana(at)sageitinc(dot)net<br> <br>Java/J2EE Developer<br>Sunnyvale, CA<br>Duration:6+ months<br>Interview: Online test + video/inperson required depends on consultant location<br><br>You Are:<br>•	Strong Experience on Java (“Core + Advance”) , J2EE , Knowledge of Spring MVC Framework<br>•	Worked on both Relational and NoSQL DBs like Oracle and Mongo DB (nice to have)<br>•	Basic idea of Jenkins CI/CD Pipeline<br>•	Basic idea of Unix  and Shell Scripting<br><br>Thanks & Regards<br>Farzana<br> <br>Sage IT<br>Frisco, TX 75034<br>Desk: 972-996-0650 EXT: 4...
+------
+url: https://jobs.rezscore.com/token/eHw7U2a75V0RMfGGTLBP
+- salary:130000
+- bounty: 500
