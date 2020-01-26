@@ -1,0 +1,5 @@
+>Data Scientist III<br>Tempe, AZ<br><br>Job Functions:<br>•	Produce essential analytics that enabling liquidity product decisions to maximize product revenue (ex. optimal product pricing; optimal segmentation for pricing), support liquidity products initiatives (i.e. sizing of initiative opportunity, analytics that support agile initiative adjustment when needed, etc.).<br>•	Support liquidity advisors by identifying potential risks and opportunities via data-driven analytics.<br>•	Research, analyze, and interpret large data sets to help develop data-driven analytics.<br>•	Partner and work harmoniously with cross-culture and cross functional teams such as liquidity product analytic specialists, product managers, business managers, and other analytical teammates in understanding the data and/or resolving business problems.<br>•	Routinely translate business problems/issues into data and use data-driven analytics to provide actionable solutions/recommendations to support overall Liquid...
+------
+url: https://jobs.rezscore.com/token/4-M6Tyfps8Bnjf57rkMo
+- salary:127500
+- bounty: 500
