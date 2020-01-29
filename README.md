@@ -22,4 +22,6 @@ The file contents can contain an optional comment closed with information on con
 - keywords: ["kw1", "kw2", "kw3"]
 ```
 
+We would love to hear your feedback at this link: https://jobs.rezscore.com/emails/feedback/0/githubjobs/
+
 If you have questions, please email ghjobs@onymail.com
