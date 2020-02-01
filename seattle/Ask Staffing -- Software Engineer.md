@@ -9,9 +9,10 @@
 > -  Working knowledge of test frameworks such as QUnit or PyUnit
 > -  Excellent analytical, strategic planning, written and oral communication skills
 > -  Good team player, attention to detail and ability to work well with others
-> - sired Skills
+> 
+> Desired Skills
 > -  ServiceNow platform administration and development knowledge would be a plus
 ------
 url: https://jobs.rezscore.com/token/8DbdLiC3NduBJnVhIkzi
-- salary:148000
+- salary: 148000
 - bounty: 500
