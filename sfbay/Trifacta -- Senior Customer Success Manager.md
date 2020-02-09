@@ -1,0 +1,5 @@
+>Senior Customer Success Manager  Trifacta is looking for a Senior Customer Success Manager, you will be responsible to manage a portfolio of existing and new subscription business, on Enterprise and Strategic accounts.  A Trifacta CSM demonstrates our core value “Start with the User”, with key responsibilities to engage customers post-sale, build customer satisfaction and retention, and help customers as they maximize value from their Trifacta Wrangler investment. In this role you will have a significant opportunity to craft the customer journey, identify opportunities and be the voice of your customers. You will be responsible to onboard customers and develop and manage account success plans, and focus on ensuring client health. About Trifacta:Trifacta, the pioneer in data transformation, significantly enhances the value of an enterprise’s Big Data by enabling users to easily transform raw, complex data into clean and structured inputs for analysis. 
+------
+url: https://jobs.rezscore.com/token/BTTzoZyOnWUrKIbqrs8K
+- salary: 150000
+- bounty: 500
