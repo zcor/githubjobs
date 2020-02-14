@@ -1,5 +1,4 @@
 >
->
 >Job Title: AWS Developer 
 >Location: Walnut Creek, CA
 >Duration: 12+ Months Long Term Contract
