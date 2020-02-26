@@ -1,4 +1,3 @@
->
 >Industry: Financial Services
 >Job Category: Information Technology - Developer
 >
